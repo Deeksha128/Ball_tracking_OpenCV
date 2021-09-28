@@ -1,0 +1,8 @@
+prefix=/home/deeksha/catkin_ws/src/ros_tl/build/devel
+
+Name: ros_tl
+Description: Description of ros_tl
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
